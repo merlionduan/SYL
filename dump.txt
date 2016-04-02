@@ -1,0 +1,26 @@
+06:51:43.860515 IP (tos 0x0, ttl 64, id 0, offset 0, flags [DF], proto UDP (17), length 48)
+    192.168.1.113.39608 > 192.168.1.1.cbt: [bad udp cksum 0x83f0 -> 0x30de!] UDP, length 20
+	0x0000:  4500 0030 0000 4000 4011 b6fa c0a8 0171  E..0..@.@......q
+	0x0010:  c0a8 0101 9ab8 1e61 001c 83f0 6865 6c6c  .......a....hell
+	0x0020:  6f2c 776f 726c 6421 0000 0000 0000 0000  o,world!........
+06:51:45.239113 IP (tos 0x0, ttl 64, id 0, offset 0, flags [DF], proto UDP (17), length 48)
+    192.168.1.113.38410 > 192.168.1.1.cbt: [bad udp cksum 0x83f0 -> 0x358c!] UDP, length 20
+	0x0000:  4500 0030 0000 4000 4011 b6fa c0a8 0171  E..0..@.@......q
+	0x0010:  c0a8 0101 960a 1e61 001c 83f0 6865 6c6c  .......a....hell
+	0x0020:  6f2c 776f 726c 6421 0000 0000 0000 0000  o,world!........
+06:51:46.253058 IP (tos 0x0, ttl 64, id 0, offset 0, flags [DF], proto UDP (17), length 48)
+    192.168.1.113.59148 > 192.168.1.1.cbt: [bad udp cksum 0x83f0 -> 0xe489!] UDP, length 20
+	0x0000:  4500 0030 0000 4000 4011 b6fa c0a8 0171  E..0..@.@......q
+	0x0010:  c0a8 0101 e70c 1e61 001c 83f0 6865 6c6c  .......a....hell
+	0x0020:  6f2c 776f 726c 6421 0000 0000 0000 0000  o,world!........
+06:51:47.068046 IP (tos 0x0, ttl 64, id 0, offset 0, flags [DF], proto UDP (17), length 48)
+    192.168.1.113.51453 > 192.168.1.1.cbt: [bad udp cksum 0x83f0 -> 0x0299!] UDP, length 20
+	0x0000:  4500 0030 0000 4000 4011 b6fa c0a8 0171  E..0..@.@......q
+	0x0010:  c0a8 0101 c8fd 1e61 001c 83f0 6865 6c6c  .......a....hell
+	0x0020:  6f2c 776f 726c 6421 0000 0000 0000 0000  o,world!........
+06:51:47.740063 IP (tos 0x0, ttl 64, id 0, offset 0, flags [DF], proto UDP (17), length 48)
+    192.168.1.113.58264 > 192.168.1.1.cbt: [bad udp cksum 0x83f0 -> 0xe7fd!] UDP, length 20
+	0x0000:  4500 0030 0000 4000 4011 b6fa c0a8 0171  E..0..@.@......q
+	0x0010:  c0a8 0101 e398 1e61 001c 83f0 6865 6c6c  .......a....hell
+	0x0020:  6f2c 776f 726c 6421 0000 0000 0000 0000  o,world!........
+
